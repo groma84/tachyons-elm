@@ -3,7 +3,7 @@
     "name": "groma84/tachyons-elm",
     "summary": "Tachyons CSS classnames for Elm - updated fork",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "4.2.0",
     "exposed-modules": [
         "Tachyons",
         "Tachyons.Classes"
